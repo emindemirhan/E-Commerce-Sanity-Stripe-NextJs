@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## E-Commerce-Sanity-Stripe-NextJs
+
+Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments.
+
+## Live demo of ecommerce site
+You can click for live demo <a href="https://e-commerce-sanity-stripe-next-js.vercel.app/">Link</a>.
+## Pictures of site.
+<a href='https://postimg.cc/MMh0ws4j' target='_blank'><img src='https://i.postimg.cc/GtpXkVxz/Ekran-g-r-nt-s-2022-06-08-212337.png' border='0' alt='Ekran-g-r-nt-s-2022-06-08-212337'/></a>
+<a href='https://postimg.cc/d7245cSS' target='_blank'><img src='https://i.postimg.cc/Xvhm7VK3/Ekran-g-r-nt-s-2022-06-08-212358.png' border='0' alt='Ekran-g-r-nt-s-2022-06-08-212358'/></a><br /><a href='https://suwalls.com/girls/mia-malkova'>mia malkova wallpaper</a><br />
+[![Ekran-g-r-nt-s-2022-06-08-212444.png](https://i.postimg.cc/brbhjZ4K/Ekran-g-r-nt-s-2022-06-08-212444.png)](https://postimg.cc/sGV8Ygjc)
+
+
+<a href="https://ibb.co/LkPMKQy"><img src="https://i.ibb.co/r7tg9bh/cart.png" alt="cart" border="0"></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xdy5Bnst/Ekran-g-r-nt-s-2022-06-08-235200.png' border='0' alt='Ekran-g-r-nt-s-2022-06-08-235200'/></a>
+
+
+
+
 
 ## Getting Started
 
